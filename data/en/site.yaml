@@ -1,0 +1,20 @@
+---
+# Copyright Notice
+copyright: © 2020 Copyright.
+
+disclaimer: "This theme is under MIT license. So, you can use it for
+            non-commercial, commercial, or private uses.
+            You can modify or distribute the theme without requiring any
+            permission from the theme author.
+            However, the theme author does not provide any warranty or
+            takes any liability for any issue with the theme."
+
+description: Portfolio and personal blog of John Doe.
+
+# Specify OpenGraph Headers
+openGraph:
+  title: Rubem Mota
+  type: website
+  description: Portfolio and personal blog of Rubem Mota.
+  image: images/author/avatar.png
+  url: https://rubemlrm.com

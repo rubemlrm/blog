@@ -1,0 +1,48 @@
+---
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior Software Engineer
+# your company information
+company:
+  name: Xgeeks
+  url: "https://xgeeks.io/"
+
+# a summary about you
+summary: "Started my tech adventure in 2004, taking a High School course
+          relative to IT technician, during this course I started gain a
+          passion for the web development and system administration.
+          Because of that i've followed the path to be a software
+          developers and devops.
+          Besides the tech side, i like to practive sports, i'm currently
+          doing Karaté Shotokan and some gymnasium work."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "rubemmota89+site@gmail.com"
+
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://www.github.com/rubemlrm"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/rubemlrm/"
+
+  - name: Twitter
+    icon: "fab fa-twitter"
+    url: "https://twitter.com/rubemlrm/"
+
+  - name: Mastadon
+    icon: "fab fa-mastodon"
+    url: "https://masto.pt/@rubemlrm"
+    rel: "me noopener"

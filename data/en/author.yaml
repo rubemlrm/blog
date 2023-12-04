@@ -1,0 +1,15 @@
+---
+# some information about you
+name: "Rubem Mota"
+nickname: "rubemlrm"
+greeting: "Hi, I am "
+image: "images/author/avatar.jpg"
+contactInfo:
+  email: "rubemmota89@gmail.com"
+  github: rubemlrm
+  linkedin: rubemlrm
+  twitter: rubemlrm
+# some summary about what you do
+summary:
+  - I am a Developer
+  - I am a Devops
