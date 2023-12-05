@@ -72,6 +72,8 @@ params:
         utteranc:
           repo: Rubemlrm/rubemlrm.github.io
           issueTerm: title
+          label: post
+          theme: preferred-color-scheme
 
     analytics:
       enable: true

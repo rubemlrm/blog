@@ -2,7 +2,7 @@
 name: Publish Site
 on:
   pull_request:
-    types: [opened, synchronize, closed]
+    types: [opened, synchronize]
     branches:
       - "master"
 
