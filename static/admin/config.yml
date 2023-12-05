@@ -4,6 +4,7 @@ backend:
   repo: rubemlrm/blog
   branch: master # Branch to update (optional; defaults to master)
   base_url: https://editor.rubemlrm.com
+  api_root: https://api.github.com
 
 publish_mode: editorial_workflow
 media_folder: "assets/images/uploads" # Media files will be stored in the repo under static/images/uploads
