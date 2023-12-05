@@ -70,7 +70,7 @@ params:
       enable: true
       services:
         utteranc:
-          repo: Rubemlrm/rubemlrm.github.io
+          repo: Rubemlrm/blog
           issueTerm: title
           label: post
           theme: preferred-color-scheme
@@ -93,5 +93,5 @@ params:
   author:
     name: "Rubem Mota"
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/Rubemlrm/rubemlrm.github.io.git
+  gitRepo: https://github.com/Rubemlrm/blog.git
   gitBranch: main

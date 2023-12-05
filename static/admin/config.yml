@@ -1,7 +1,7 @@
 backend:
   site_domain: rubemlrm.com
   name: github
-  repo: rubemlrm/rubemlrm.github.io
+  repo: rubemlrm/blog
   branch: master # Branch to update (optional; defaults to master)
   base_url: https://editor.rubemlrm.com
 
