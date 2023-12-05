@@ -93,5 +93,5 @@ params:
   author:
     name: "Rubem Mota"
   # GitHub repo URL and branch of your site
-  gitRepo: https://github.com/Rubemlrm/blog.git
+  gitRepo: https://github.com/Rubemlrm/blog
   gitBranch: main
