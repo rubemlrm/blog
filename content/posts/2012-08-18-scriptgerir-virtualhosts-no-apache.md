@@ -1,9 +1,11 @@
 ---
 categories:
 - script
+- perl
 date: "2012-08-18T00:00:00Z"
 status: publish
-title: '[Script]Gerir VirtualHosts do Apache'
+title: 'Script - Gerir VirtualHosts do Apache'
+hero: images/posts/code.jpg
 ---
 
 Ora boas tardes,

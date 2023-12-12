@@ -4,6 +4,7 @@ categories:
 - palestra
 date: "2011-09-14T19:55:19Z"
 title: Palestra sobre desenvolvimento em android na ESTG
+hero: images/posts/androidpt.png
 ---
 
 Praticamente uma semana depois da realização desta palestra , finalmente tive tempo para fazer um pequeno resumo
@@ -15,7 +16,7 @@ As partes que gostei mais na palestra foram a palestra sobre OpenGL e sobre Rom 
 muita coisa que nunca se vai aprender na escola e que me fez despertar um interesse em rom development e ainda
  me levou a querer aprender ainda mais de programação.
 
-{{< img src="/images/androidpt.png" alt="androidPT" >}}
+{{< img src="/images/posts/androidpt.png" alt="androidPT" >}}
 
 **Game Dev:** \
 Coisas como motores gráficos e NDK fizeram-me ver que aquilo que eu tinha feito para a PAT em rpg maker VX não foi nada

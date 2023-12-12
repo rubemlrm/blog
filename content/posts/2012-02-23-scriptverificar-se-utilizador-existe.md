@@ -1,10 +1,12 @@
 ---
 categories:
     - linux
-    - categories
+    - script
+    - perl
 date: "2012-02-23T00:18:54Z"
 date_gmt: 2012-02-23 00:18:54 +0000
-title: Verificar se utilizador existe
+title: Script - Verificar se utilizador existe
+hero: images/posts/code.jpg
 ---
 
 Este script tem como fundamento verificar se um utilizador existe ou não no sistema Linux e se existir

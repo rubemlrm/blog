@@ -4,7 +4,8 @@ categories:
 - script
 date: "2012-02-16T00:00:00Z"
 status: publish
-title: Sysadmin-toolbox
+title: Script - Sysadmin-toolbox
+hero: images/posts/code.jpg
 ---
 
 Depois de algum tempo a programar em perl , decidi "que tal por as minhas capacidades a prova" e construi um painel

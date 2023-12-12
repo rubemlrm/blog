@@ -1,6 +1,7 @@
 ---
 date: "2017-07-17T22:16:06Z"
 title: De volta a escrita
+hero: images/posts/writer.jpg
 ---
 
 Ora viva,

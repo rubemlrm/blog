@@ -4,7 +4,8 @@ categories:
     - tutorial
 date: "2012-01-24T23:03:15Z"
 date_gmt: 2012-01-24 23:03:15 +0000
-title: Gerir Cron's com o Perl
+title: Script Gerir Cron's com o Perl
+hero: images/posts/code.jpg
 ---
 Bem pessoal aqui fica um pequeno script para vos ajudar a a automatizar as vossas tarefas quando tiverem que mexer em crontabs.
 Este script surgiu numa aula de Sistemas Operativos em que tínhamos um exercício em que tínhamos que adicionar novos crons

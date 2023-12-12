@@ -4,6 +4,7 @@ title: Operadores em Perl
 categories:
   - perl
   - tutorial
+hero: images/posts/perl.png
 ---
 
 Desta vez irei falar de operadores de comparação, operadores de strings e operadores aritméticos.

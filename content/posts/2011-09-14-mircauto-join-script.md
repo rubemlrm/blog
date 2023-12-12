@@ -4,6 +4,7 @@ categories:
 - dicas
 date: "2011-09-14T20:24:35Z"
 title: Auto-Join Script para Mirc
+hero: images/posts/code.jpg
 ---
 
 Este é um exemplo para criar um script para fazer auto join no irc.

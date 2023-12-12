@@ -4,6 +4,7 @@ title: Ciclos de Controlo:"If..else" e "If..elsif.." em Perl
 categories:
   - perl
   - tutorial
+hero: images/posts/perl.png
 ---
 
 E aqui vem o mais um artigo relativo ao perl. Neste artigo vou-vos ensinar a utilizar um dos ciclos de controlo mais

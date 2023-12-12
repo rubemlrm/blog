@@ -4,7 +4,8 @@ categories:
     - script
 date: "2012-02-15T18:22:09Z"
 date_gmt: 2012-02-15 18:22:09 +0000
-title: Reportar Directorias Vazias
+title: Script - Reportar Directorias Vazias
+hero: images/posts/code.jpg
 ---
 Aqui fica um pequeno script para encontrar pastas vazias dentro de uma directoria.Este script utiliza o módulo
 **File::Find::Rule** para criar a listagem de todas as

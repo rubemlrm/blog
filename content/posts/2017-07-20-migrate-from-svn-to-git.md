@@ -1,6 +1,7 @@
 ---
 date: '2017-07-20T22:16:06Z'
 title: Migração de SVN para GIT
+hero: images/sections/skills/git.png
 categories:
   - git
   - tutorial

@@ -5,13 +5,14 @@ title: Declaração de variáveis em Perl
 categories:
   - perl
   - tutorial
+hero: images/posts/perl.png
 ---
 
 Bem minha gente chegou mais um artigo sobre perl. Desta vez irei focar as declarações de variáveis.
 Em perl só existem três tipos de variáveis. Estas são divididas por hashes, scalar e array. A declaração de variáveis
 em perl é um pouco diferente das linguagens mais comuns de programação.
 
-{{< img src="/images/perl.png" alt="perl" >}}
+{{< img src="/images/posts/perl.png" alt="perl" >}}
 
 #### Antes de tudo o que é uma variável e como se caracteriza? ####
 

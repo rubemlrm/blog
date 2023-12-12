@@ -4,7 +4,7 @@ categories:
   - cronjob
 date: '2011-09-14T19:57:11Z'
 title: Cron e crontab o que são ? E para que servem?
-
+hero: images/posts/crontab.png
 ---
 
 Certamente muitos de vós já se depararam com estes 2 termos e questionaram-se sobre o que seriam e que função desempenhavam.

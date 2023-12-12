@@ -4,6 +4,7 @@ categories:
   - tutorial
 date: '2011-12-30T17:14:24Z'
 title: Introdução ao Perl
+hero: images/posts/perl.png
 ---
 
 Quem já ouviu falar de Perl e quis aprender e depois pensou mas como é que vou aprender isto,
@@ -11,7 +12,7 @@ ou melhor de que maneira é que vou aprender Perl.E para que serve o Perl.
 A  pensar nessas questões criei esta rubrica para vos mostrar como fazer algumas coisas.
 Para que servem algumas funções entre outros aspectos importantes de referir.
 
-{{< img src="/images/perl.png" alt="perl" >}}
+{{< img src="/images/posts/perl.png" alt="perl" >}}
 
 Este artigo vai estar divido em 3 partes:
 

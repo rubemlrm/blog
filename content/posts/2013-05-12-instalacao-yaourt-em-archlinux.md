@@ -4,6 +4,7 @@ title: Instalação do yaourt em ArchLinux
 categories:
   - linux
   - tutorial
+hero: images/posts/archlinux.png
 ---
 
 Como utilizador de archlinux já há uns anos , surgiu a necessidade de instalar pacotes que estão disponíveis no AUR.

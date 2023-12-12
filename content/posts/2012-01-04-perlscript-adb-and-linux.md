@@ -6,6 +6,7 @@ categories:
 date: "2012-01-04T22:39:39Z"
 date_gmt: 2012-01-04 22:39:39 +0000
 title: Script Adb and Linux
+
 ---
 
 Cada vez mais existem pessoas a utilizar Android e Linux e muitas deles tem dificuldades em por o adb a

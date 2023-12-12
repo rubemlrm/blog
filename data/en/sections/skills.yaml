@@ -14,18 +14,40 @@ skills:
     url: "https://kubernetes.io/"
 
   - name: Docker
-    logo: /images/sections/skills/docker.png
-    summary: "Write most of the programs as dockerized container.
-              Experienced with multi-stage, multi-arch build process."
+    logo: "images/sections/skills/docker.png"
+    summary: "Created environments for development and deployment using docker"
     url: "https://www.docker.com/"
-
-  - name: Linux
-    logo: /images/sections/skills/linux.png
-    summary: "Using as the main operating system.
-              Capable of writing bash/shell scripts."
-
+  - name: Ansible
+    logo: "images/sections/skills/ansible.png"
+    summary: "Using ansible to create provision setups for linux servers and Desktop environments"
+    url: "https://www.ansible.com/"
   - name: Git
-    logo: /images/sections/skills/git.png
-    summary: "Experienced with git-based development. Mostly, use Github.
-              Also, have experience in working with GitLab."
+    logo: "images/sections/skills/git.png"
+    summary: "Using git for code management, with a huge experience with git supported plattaforms like gitlab or github"
     url: "https://git-scm.com/"
+  - name: CI/CD
+    logo: "images/sections/skills/cicd.png"
+    summary: "Working with Github Actions/ Jenkins and Gitlab-ci to create integration and testing workflows"
+  - name: Database
+    logo: "images/sections/skills/sql.png"
+    summary: "Working with MariadDB/MySql and SQL server databases"
+  - name: Linux
+    logo: "images/sections/skills/linux.png"
+    summary: "Using linux as desktop operanting system and server operating system"
+    url: "https://www.linuxfoundation.org/"
+  - name: PHP
+    logo: "images/sections/skills/php.png"
+    summary: "Being developing custom web apps using vanilla PHP, Laravel and Yii Framework"
+    url: "https://www.php.net/"
+  - name: Javascript
+    logo: "images/sections/skills/javascript.png"
+    summary: "Being developing frontend for websites using vanilla JS, JQuery and Vue.js"
+    url: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  - name: C#
+    logo: "images/sections/skills/csharp.png"
+    summary: "Developed console applications and WCF webservices."
+    url: "https://docs.microsoft.com/en-us/dotnet/csharp/"
+  - name: Golang
+    logo: "images/sections/skills/go.png"
+    summary: "Developed rest api's."
+    url: "https://go.dev/"

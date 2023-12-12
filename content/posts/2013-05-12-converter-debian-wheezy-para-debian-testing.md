@@ -4,8 +4,8 @@ categories:
 - Debian
 date: "2013-05-12T16:46:49Z"
 date_gmt: 2013-05-12 16:46:49 +0000
-excerpt_separator: <!--more-->
 title: Converter Debian Wheezy para Debian Testing
+hero: images/posts/debian.svg
 ---
 
 Com o recente lançamento do Debian como versão final , foi anunciada a versão 8 desta distribuição.

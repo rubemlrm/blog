@@ -1,0 +1,33 @@
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  designation: Software Engineer
+
+projects:
+- name: FogosPT
+  logo: images/projects/fogos.jpg
+  role: Contributor
+  timeline: "March 2018 - Present"
+  repo: https://github.com/fogospt # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://fogos.pt/"
+  summary: Fire Status WebService and Mobile application.
+  tags: ["community", "laravel", "lumen"]
+
+- name: Workstation Buildfiles
+  role: Owner
+  logo: images/sections/skills/ansible.png
+  timeline: "November 2016 - Present"
+  repo: https://github.com/rubemlrm/workstations-buildfiles # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Personal provision files for fedora distros, using ansible to powerup.
+  tags: ["ansible", "linux"]
+
+- name: Fedora Copr Packages
+  role: Owner
+  logo: images/projects/copr.png
+  timeline: "January 2022 - Present"
+  repo: https://github.com/rubemlrm/copr-packages # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  summary: Package ports for fedora without native package.
+  tags: ["fedora", "linux", "packaging"]

@@ -59,6 +59,6 @@
     "postcss": "^8.4.21",
     "postcss-cli": "^8.3.1"
   },
-  "name": "rubemlrm.com",
+  "name": "rubemlrm.github.io",
   "version": "0.2.0"
 }

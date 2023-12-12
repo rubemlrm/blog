@@ -3,7 +3,8 @@ categories:
 - perl
 - script
 date: "2012-03-16T00:00:00Z"
-title: Verificar máquinas de rede
+title: Script - Verificar máquinas de rede
+hero: images/posts/code.jpg
 ---
 
 Boas noites, depois de algum tempo sem postar aqui nada devido a escola .Deixo aqui um pequeno script em perl que permite

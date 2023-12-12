@@ -1,6 +1,7 @@
 ---
 date: "2011-09-14T19:53:05Z"
 title: Inicio do meu blog
+hero: images/posts/writer.jpg
 ---
 Começar por me apresentar .Bem chamo-me Rubem Mota , nome invulgar diga-se de passagem.
 Tenho o curso de técnológico de informática ,e sou um ávido fã de musica, bombeiros, música, anime, Magic the gathering.
