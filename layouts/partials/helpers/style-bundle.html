@@ -1,0 +1,6 @@
+{{/*  Compile hugo template `application.template.scss` into `application.scss`.  */}}
+{{- $template := resources.Get "styles/application.template.scss" -}}
+{{- $scss := $template | resources.ExecuteAsTemplate "styles/application.scss" . -}}
+{{/*  Bundle application.scss  */}}
+{{- $bundle := $scss | resources.ToCSS $options | fingerprint -}}
+<link rel="stylesheet" href="{{ $bundle.RelPermalink }}" integrity="" />
